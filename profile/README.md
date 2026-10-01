@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/3ade-wordmark-primary.svg" alt="3ade Labs wordmark" width="190">
+</p>
+
 # 3ade Labs
 
 We build and maintain:
